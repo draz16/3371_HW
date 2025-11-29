@@ -1,0 +1,35 @@
+    /*
+ Program name:patient-form.css
+ Name: Dewan Raza
+date created:9-22-25
+date last edited:9-26-25
+version:1.0
+description: using CSS to edit a patient form
+*/
+*{
+    font-family:"Source Sans Pro",sans-serif;
+}
+#special{
+    text-align:center;
+    color:gray;
+}
+.center{
+    text-align:center;
+}
+body{
+    background-color:teal;
+    font-size:12px;
+    opacity:0.95;
+}
+h1,h2,h3,h4,h5,h6{
+    background-color: bisque;
+    font-size:16px;
+    
+}
+table.form{
+    width:95%;
+    border-spacing:20px;
+    
+}
+
+ 
